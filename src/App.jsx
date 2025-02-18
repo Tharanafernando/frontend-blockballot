@@ -15,10 +15,10 @@ function App() {
         </Helmet>
        
         {/* <VoterRegistration/> */}
-        {/* <Login/> */}
+        <Login/>
 
         {/* <LoginPage/> */}
-        <RegisterElectionPage/>
+        {/* <RegisterElectionPage/> */}
     </div>
  )
 }
